@@ -1,0 +1,6 @@
+Parent (pid:71508)
+Parent input
+Parent (pid:71508)
+Parent input
+Child (pid:71509)
+Child input
